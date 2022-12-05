@@ -27,3 +27,7 @@ Welcome to starts ⭐ & comments 💹 & sharing 😀 !!
 
 ### 2019
 - **[IPNet]** Fast User-Guided Video Object Segmentation by Interaction-And-Propagation Networks, *CVPR* [[Paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Oh_Fast_User-Guided_Video_Object_Segmentation_by_Interaction-And-Propagation_Networks_CVPR_2019_paper.pdf) [[arXiv]](https://arxiv.org/abs/1904.09791) [[Code]](https://github.com/seoungwugoh/ivs-demo)
+
+
+## Acknowledgement
+[[Awesome-vos]](https://github.com/suhwan-cho/awesome-video-object-segmentation)
